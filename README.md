@@ -1,2 +1,2 @@
 # 13.-Erin-Fatmasari
-Sistem informasi riau hot news
+Sistem informasi riau hot news berbasis web
